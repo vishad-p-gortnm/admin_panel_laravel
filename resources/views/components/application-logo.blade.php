@@ -1,0 +1,1 @@
+<img src="{{asset('images/php_learner_logo.png')}}" width="100px" alt="PHP Learner Logo"/>
